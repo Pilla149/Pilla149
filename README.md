@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate and curious **Electronics and Com
 ---
 
 ### 🌱 Currently Focused On
-- Embedded C and Microcontroller Programming (8051, ARM, etc.)
+- Embedded C and Microcontroller Programming 
 - Real-time embedded projects and hands-on sensor interfacing
 - Strengthening core electronics and system-level design skills
 
@@ -28,9 +28,9 @@ Welcome to my GitHub profile! I'm a passionate and curious **Electronics and Com
 ---
 
 ### 🤝 Let’s Connect
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile URL]
-- 📸 Instagram (IEEE Page): [Your Insta Page or Handle]
+- 📧 Email: pillaadi2003@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/pilla-naga-adinarayana
+- 📸 Instagram : https://www.instagram.com/pilla.naga.adinarayana?igsh=d2Z2eXc3dTF1ZGVn
 
 ---
 
