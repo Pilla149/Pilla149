@@ -1,42 +1,91 @@
-## Hi there 👋 I'm Pilla Naga Adinarayana!
+Hi there 👋 I'm Pilla Naga Adinarayana!
 
-Welcome to my GitHub profile! I'm a passionate and curious **Electronics and Communication Engineering (ECE)** student, entering my **final year** at **Bonam Venkata Chalamayya Institute of Technology and Science**. I love exploring both **software and hardware domains**, aiming to become a well-rounded engineer.
+Welcome to my GitHub profile! I'm an Electronics and Communication Engineering (ECE) graduate passionate about building practical solutions at the intersection of Embedded Systems, Firmware Development, IoT, and Electronics.
 
----
-
-### 🚀 About Me
-- 🎓 Final Year ECE Student
-- 🛠️ Currently working on an **Arduino-based IoT project** (Gas Cylinder Monitoring using HX711)
-- 🤖 Learning **Embedded Systems** through Cranes Varsity Training
-- 🧠 Daily Learner | IEEE Student Branch Chair | IEEEXtreme Ambassador
-- 💡 Passionate about **VLSI Design, Microcontrollers, and Real-time Embedded Projects**
+I enjoy exploring both hardware and software, experimenting with microcontrollers, interfacing sensors, and developing real-world engineering solutions.
 
 ---
 
-### 🌱 Currently Focused On
-- Embedded C and Microcontroller Programming 
-- Real-time embedded projects and hands-on sensor interfacing
-- Strengthening core electronics and system-level design skills
+🚀 About Me
+
+- 🎓 B.Tech in Electronics and Communication Engineering (ECE), 2026.
+- 🔧 Interested in Embedded Systems, Firmware Development, and IoT.
+- 💻 Exploring Embedded C, C++, Python, and system-level programming.
+- 🤖 Working on hardware-software integration and real-time embedded applications.
+- 🌐 IEEE Student Branch Leadership & IEEEXtreme Community Contributor.
+- 💡 Passionate about Microcontrollers, Electronics, Hardware Design, and Automation.
 
 ---
 
-### 👯 I’m Looking to Collaborate On
-- Open-source IoT or embedded projects
-- Student-led initiatives and IEEE challenges
-- Tech-focused projects that blend hardware and software
+🌱 Currently Learning & Exploring
+
+- Embedded C and Microcontroller Programming
+- Embedded Linux and Device Drivers
+- RTOS and Real-Time Systems
+- Communication Protocols – UART, SPI, and I2C
+- ESP32, Arduino, and Raspberry Pi
+- PCB Design and Hardware Prototyping
+- IoT Systems and Industrial Automation
 
 ---
 
-### 🤝 Let’s Connect
+🛠️ Technical Interests
+
+- Embedded Platforms: Arduino, ESP32, ESP8266, Raspberry Pi
+- Programming: C, C++, Python, Java
+- Communication: UART, SPI, I2C, MQTT, BLE, Wi-Fi
+- Tools: Git, GitHub, MATLAB, Arduino IDE
+- Domains: Embedded Systems, Firmware, IoT, Electronics, Automation
+
+---
+
+👨‍💻 Projects & Interests
+
+I'm interested in developing projects involving:
+
+- Smart IoT-based monitoring systems
+- Sensor interfacing and data acquisition
+- Embedded hardware and firmware integration
+- Raspberry Pi-based applications
+- Automation and real-time control systems
+- Practical electronics and PCB development
+
+---
+
+🏆 IEEE & Leadership
+
+- Former IEEE BVCITS Student Branch Chair (2024–2025)
+- IEEEXtreme 18.0 Global Ambassador
+- IEEE Day Ambassador 2024
+- IEEEXtreme 19.0 Vizag Bay Section Lead
+- IEEEXtreme 20.0 Student Ambassador Program – IEEE Vizag Bay Section Lead
+
+---
+
+👯 Looking to Collaborate On
+
+- Open-source Embedded Systems projects
+- IoT and Microcontroller-based applications
+- Firmware and Hardware development
+- Electronics prototyping and automation
+- Student-led engineering initiatives
+
+---
+
+🤝 Let's Connect
+
 - 📧 Email: pillaadi2003@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/pilla-naga-adinarayana
-- 📸 Instagram : https://www.instagram.com/pilla.naga.adinarayana?igsh=d2Z2eXc3dTF1ZGVn
+- 💼 LinkedIn: "Pilla Naga Adinarayana" (https://www.linkedin.com/in/pilla-naga-adinarayana/)
+- 📸 Instagram: "@pilla.naga.adinarayana" (https://www.instagram.com/pilla.naga.adinarayana/)
 
 ---
 
-### ⚡ Fun Fact
-I enjoy building practical tech solutions and actively contributing to the student community through IEEE events and projects!
+⚡ Fun Fact
+
+I love turning ideas into working hardware, experimenting with electronics, and learning how things work from the circuit level to the software level.
+
+Your Idea → Engineering → Real-World Solutions!
 
 ---
 
-Thanks for visiting my profile! Let’s collaborate and innovate together! 🚀
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me. Let's learn, build, and innovate together!
